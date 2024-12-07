@@ -67,30 +67,30 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a>
 
-<img src="rsc/assembly_logo.jpg" alt="php" width="40" height="40"/> 
+<img src="rsc/assembly_logo.jpg" alt="Assembly" width="40" height="40"/> 
 
 <a href="https://hex-rays.com/ida-pro" target="_blank" rel="noreferrer">
-<img src="rsc/ida_logo.png" alt="python" width="40" height="40"/> 
+<img src="rsc/ida_logo.png" alt="IDA" width="40" height="40"/> 
 </a>
 
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-<img src="rsc/kali_logo.png" alt="python" width="40" height="40"/> 
+<img src="rsc/kali_logo.png" alt="Kali Linux" width="40" height="40"/> 
 </a>
 
 <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-<img src="rsc/metasploit_logo.png" alt="python" width="40" height="40"/> 
+<img src="rsc/metasploit_logo.png" alt="Metasploit" width="40" height="40"/> 
 </a>
 
 <a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors" target="_blank" rel="noreferrer">
-<img src="rsc/microchip_logo.png" alt="python" width="74.59" height="40"/> 
+<img src="rsc/microchip_logo.png" alt="PIC Microcontollers" width="74.59" height="40"/> 
 </a>
 
 <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/language-reference" target="_blank" rel="noreferrer">
-<img src="rsc/VBA_logo.png" alt="python" width="40" height="40"/> 
+<img src="rsc/VBA_logo.png" alt="VBA" width="40" height="40"/> 
 </a>
 
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-<img src="rsc/Wireshark.png" alt="python" width="110.68" height="40"/> 
+<img src="rsc/Wireshark.png" alt="Wireshark" width="105.15" height="38"/> 
 </a>
 
 </p>
