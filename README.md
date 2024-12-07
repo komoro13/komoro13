@@ -71,7 +71,7 @@
 </a>
 
 <a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors" target="_blank" rel="noreferrer">
-<img src="rsc/microchip_logo.png" alt="python" width="40" height="40"/> 
+<img src="rsc/microchip_logo.png" alt="python" width="74.59" height="40"/> 
 </a>
 
 <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/language-reference" target="_blank" rel="noreferrer">
@@ -79,7 +79,7 @@
 </a>
 
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-<img src="rsc/Wireshark.png" alt="python" width="40" height="40"/> 
+<img src="rsc/Wireshark.png" alt="python" width="110.68" height="40"/> 
 </a>
 
 </p>
