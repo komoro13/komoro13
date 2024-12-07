@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **thodoris.mpogiatzis@gmail.com**
 
-- 📄 Know about my experiences [theodorosbogiatzis.com](theodorosbogiatzis.com)
+- 📄 Know about my experiences [theodorosbogiatzis.com](https://www.theodorosbogiatzis.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
