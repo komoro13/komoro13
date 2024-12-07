@@ -90,7 +90,7 @@
 </a>
 
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-<img src="rsc/Wireshark.png" alt="Wireshark" width="105.15" height="38"/> 
+<img src="rsc/Wireshark.png" alt="Wireshark" width="96.85" height="35"/> 
 </a>
 
 </p>
